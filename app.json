@@ -1,0 +1,1 @@
+{"heroku": {"build": {"docker": {"web": {"image": "heroku/heroku:20"}}}}, "scripts": {"postinstall": "npm install"}}, "render": {"build": {"env": "npm run build", "type": "web"}}, "railway": {"build": {"docker": {"image": "railwayapp/node:14"}}}}}
