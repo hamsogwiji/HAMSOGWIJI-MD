@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+config.env
+
+# Session folders
+session/
+
+# Other development files
+*.log
+.DS_Store
+Thumbs.db
