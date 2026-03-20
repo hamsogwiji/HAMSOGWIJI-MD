@@ -1,7 +1,7 @@
 {
-  "name": "GWIJITECHXMD",
+  "name": "HAMSOGWIJIMD",
   "version": "2.0.0",
-  "description": "🤖 GWIJITECH XMD - Advanced WhatsApp Bot",
+  "description": "🤖 HAMSOGWIJI-MD - Advanced WhatsApp Bot",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -22,7 +22,7 @@
   "keywords": [
     "bot",
     "Baileys",
-    "GWIJITECHXMD",
+    "HAMSOGWIJIMD",
     "whatsapp",
     "whatsapp-bot",
   ],
@@ -31,7 +31,7 @@
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "latest",
     "@hapi/boom": "latest",
-    "@whiskeysockets/baileys": "npm:xmd-baileys@1.0.35",
+    "@whiskeysockets/baileys": "npm:baileys@1.0.35",
     "adm-zip": "latest",
     "axios": "^1.2.5",
     "body-parser": "latest",
